@@ -2,6 +2,10 @@
     box-sizing: inherit;
 }
 
+body {
+    margin: 0 auto;
+}
+
 html {
     box-sizing: border-box;
 }
